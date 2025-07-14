@@ -6,7 +6,7 @@
 🎸 Guitarist <br>
 ⛹️‍♂️ NBA fan
 
-## 🚀 Current Role
+## 🚀 Previous Role
 
 **Software Engineer @ Verizon x NExT** _(Jan 2025 - Present)_
 
