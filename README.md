@@ -8,7 +8,7 @@
 
 ## 🚀 Previous Role
 
-**Software Engineer @ Verizon x NExT** _(Jan 2025 - Present)_
+**Software Engineer @ Verizon x NExT** _(Jan 2025 - July 2025)_
 
 - Architecting end-to-end data pipelines processing 45k+ data rows from 5 external sources
 - Built high-performance FastAPI backend improving API response times by 40%
